@@ -1,2 +1,2 @@
 # 02_VBAHW
-VBA Homework
+Trilogy UT Bootcamp VBA Homework
